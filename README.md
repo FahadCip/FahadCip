@@ -24,7 +24,7 @@ Hello, I’m Fahad!
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <!--Social-->
-#Social
+#🌐 Socials:
 <p align="left">
  <a href="https://github.com/Fahadcip" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
