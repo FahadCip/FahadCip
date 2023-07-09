@@ -1,3 +1,10 @@
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&show_icons=true&bg_color=00000000)
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
