@@ -1,6 +1,6 @@
 ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&show_icons=true&bg_color=00000000)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true)
 
 
 
