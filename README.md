@@ -11,7 +11,10 @@ Hello, I’m Fahad!
 <!--Language stat-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--Logo-->
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/50w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/50.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/50.webp" width="100">
+</p>
 
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
