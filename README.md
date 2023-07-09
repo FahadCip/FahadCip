@@ -4,7 +4,6 @@
 <!--
 Line
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1000&color=4CAF50&width=435&lines=A+passionate+frontend+developer+from+Bangladesh)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Fahad</h1>
