@@ -1,16 +1,18 @@
 💫 Hi! My name is Fahad
 ======================
+<!-- Line -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1000&color=4CAF50&width=635&lines=A+passionate+frontend+developer+from+Bangladesh;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
+<!--Logo-->
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+</p>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Fahadcip&data=followers,repositories,stars,commits)](https://github.com/Fahadcip)
 
 
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&show_icons=true&bg_color=00000000)
-Hello, I’m Fahad!
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true)
-<!-- Line -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1000&color=4CAF50&width=635&lines=A+passionate+frontend+developer+from+Bangladesh;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
 <!--Language stat-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
