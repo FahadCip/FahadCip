@@ -11,7 +11,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Fahadcip&data=followers,repositories,stars,commits)](https://github.com/Fahadcip)
 
 
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000)
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)
 
 
 <!--Language stat-->
@@ -26,7 +26,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <!--Social-->
-# 🌐 Socials:
+# 🌐 Let's Connect and have a Chat!
 <p align="left">
  <a href="https://github.com/Fahadcip" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
