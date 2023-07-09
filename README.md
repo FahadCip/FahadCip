@@ -19,6 +19,16 @@ Hello, I’m Fahad!
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="left">
+<https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
+<https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white>
+<https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
+<https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white>
+<https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white>
+</p>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadcip&label=Profile%20views&color=0e75b6&style=flat" alt="fahadcip" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadcip" alt="fahadcip" /></a> </p>
