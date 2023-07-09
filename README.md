@@ -6,6 +6,11 @@ Line
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1000&color=4CAF50&width=635&lines=A+passionate+frontend+developer+from+Bangladesh;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
+<!--Language stat-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
@@ -84,7 +89,10 @@ Line
 
 
 
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+</p>
 
 
 <!--
