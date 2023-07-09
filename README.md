@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fahad
-=============================================================================================================================
+Hi! My name is Fahad
+======================
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Fahadcip&data=followers,repositories,stars,commits)](https://github.com/Fahadcip)
@@ -24,7 +24,7 @@ Hello, I’m Fahad!
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <!--Social-->
-#🌐 Socials:
+# 🌐 Socials:
 <p align="left">
  <a href="https://github.com/Fahadcip" >
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
