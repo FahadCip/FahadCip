@@ -11,12 +11,14 @@
 
 
 ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=fahadcip&show_icons=true&locale=en&layout=compact)
+![Fahad's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=fahadcip&show_icons=true&locale=en&layout=compact)
+
+[![name](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true =490x165)]
 
 
 
   
-</br>  <br>
+<br>  </br>  
 
 
 
