@@ -18,13 +18,8 @@
 
 
 
-<!--Logo-->
-<p align="center">
 
-</p>
 
-<h1 align="center">Hi 👋, I'm Fahad</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <!--Social-->
 # 🌐 Let's Connect and have a Chat!
