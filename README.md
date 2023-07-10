@@ -1,8 +1,6 @@
 💫 Hi! My name is Fahad
 ======================
 # $\textcolor{green}{This\ is\ a\ Big\ Title}$
-<span style='color: red;'>long</span> 
-
 
 <!-- Line -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1000&color=4CAF50&width=635&lines=A+passionate+frontend+developer+from+Bangladesh;Always%20learning%20new%20things)](https://git.io/typing-svg)
