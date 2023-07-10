@@ -8,18 +8,17 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="fahadcip"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Fahadcip&data=followers,repositories,stars,commits)](https://github.com/Fahadcip)
+
 
 
 ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadcip&show_icons=true&locale=en&layout=compact" alt="fahadcip" /></p>
 
 
-<!--Language stat-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Logo-->
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Fahad</h1>
@@ -48,8 +47,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadcip&label=Profile%20views&color=0e75b6&style=flat" alt="fahadcip" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadcip" alt="fahadcip" /></a> </p>
 
+## twitter logo
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -62,7 +61,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadcip&show_icons=true&locale=en&layout=compact" alt="fahadcip" /></p>
+
 
 
 
@@ -141,4 +140,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--Language stat-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--Profile Box-->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Fahadcip&data=followers,repositories,stars,commits)](https://github.com/Fahadcip)
+
+
+
 -->
