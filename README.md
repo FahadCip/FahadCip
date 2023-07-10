@@ -1,13 +1,13 @@
-💫 Hi! My name is Fahad
-======================
-# $\textcolor{green}{This\ is\ a\ Big\ Title}$
-
+<h1 align="center">💫 Hello! My name is Fahad</h1>
 <!-- Line -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1000&color=4CAF50&width=635&lines=A+passionate+frontend+developer+from+Bangladesh;Always%20learning%20new%20things)](https://git.io/typing-svg)
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1000&color=4CAF50&width=635&lines=A+passionate+frontend+developer+from+Bangladesh;Always%20learning%20new%20things" />
+</p>
+
 
 <!--Logo-->
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="fahadcip"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+  <img src="https://cdn3.iconfinder.com/data/icons/iconpark-vol-3/48/github-256.png" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="50">
 </p>
 
 
