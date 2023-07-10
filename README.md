@@ -1,5 +1,7 @@
 💫 Hi! My name is Fahad
 ======================
+# $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
+
 <!-- Line -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1000&color=4CAF50&width=635&lines=A+passionate+frontend+developer+from+Bangladesh;Always%20learning%20new%20things)](https://git.io/typing-svg)
 
@@ -13,7 +15,6 @@
 ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)
 ![Fahad's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=fahadcip&show_icons=true&locale=en&layout=compact)
 
-[![name](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true =490x165)]
 
 
 
