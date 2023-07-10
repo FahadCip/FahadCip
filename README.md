@@ -8,10 +8,8 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="fahadcip"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
 
-
-<p> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000&hide_border=false&include_all_commits=true&count_private=true" alt="fahadcip" />
-</p></br>  <br>
+  
+</br>  <br>
 
 
 
