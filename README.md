@@ -14,10 +14,7 @@
   <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadcip&show_icons=true&locale=en&layout=compact" alt="fahadcip" />
   </p>
-</p>
-
-<br> 
-</br>
+</p></br>
 
 
 
