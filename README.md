@@ -9,9 +9,8 @@
 </p>
 
 
-<p align="center">
-<img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=fahadcip&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)" alt="fahadcip" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadcip&show_icons=true&locale=en&layout=compact" alt="fahadcip" />
+<p> 
+  ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)
 </p>
 
 ![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FahadCip&theme=shadow_green&show_icons=true&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)
