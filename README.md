@@ -2,7 +2,7 @@
 
 <!-- Line -->
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1000&color=4CAF50&width=635&lines=A+passionate+frontend+developer+from+Bangladesh;A+passionate+frontend+developer+from+Bangladesh" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=1000&color=4CAF50&width=635&lines=A+passionate+frontend+developer+from+Bangladesh;More+than+5+years+experience+on+WebDesign+and+IT" />
 </p>
 
 
