@@ -45,7 +45,7 @@
 
 <h3 align="left">Other Tools I Use:</h3>
 <p align="left"> 
- <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-256.png" width="40"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/16_Aftereffects_After_Effects_Adobe_logo_logos-256.png" width="40"> <img src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/VMware_Workstation.png" width="40"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-256.png" width="40"><img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/chatgpt-icon.svg" width="40">
+ <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-256.png" width="40"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/16_Aftereffects_After_Effects_Adobe_logo_logos-256.png" width="40"> <img src="https://cdn2.iconfinder.com/data/icons/icons-mega-pack-1-and-2/256/VMware_Workstation.png" width="40"><img src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_shopping-256.png" width="40"><img src="https://img.icons8.com/material-outlined/48/chatgpt.png" width="40">
 </p>
 
 
